@@ -25,6 +25,4 @@ var i = 0;
     
   } while (int<15);
   return array;
-}let arr = []
-arr = arr.push(1)
-arr
+}
